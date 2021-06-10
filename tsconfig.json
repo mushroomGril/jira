@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "target": "es5",
+    "baseUrl": "./src",//绝对路径会在src目录下找
     "lib": [
       "dom",
       "dom.iterable",
